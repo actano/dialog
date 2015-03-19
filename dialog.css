@@ -16,11 +16,8 @@
 .dialog .content {
   box-sizing: border-box;
   position: relative;
+  min-width: 10%;
   background: white;
-  max-width: 600px;
-  min-width: 252px;
-  border: 1px solid #eee;
-  padding: 15px 20px;
   display: inline-block;
   text-align: left;
 }
