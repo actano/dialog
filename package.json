@@ -1,5 +1,10 @@
 {
   "name": "dialog-component",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/actano/dialog.git"
+  },
+  "license": "MIT",
   "description": "Dialog component",
   "version": "0.4.3",
   "keywords": [
