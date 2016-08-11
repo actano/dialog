@@ -15,7 +15,7 @@
     "emitter": "emitter-component",
     "overlay": "overlay-component",
     "event": "event-component",
-    "classes": "classes-component",
+    "classes": "component-classes",
     "query": "query-component"
   },
   "browserify": {
