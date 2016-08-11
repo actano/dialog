@@ -12,11 +12,11 @@
     "ui"
   ],
   "browser": {
-    "emitter": "emitter-component",
+    "emitter": "component-emitter",
     "overlay": "overlay-component",
-    "event": "event-component",
+    "event": "component-event",
     "classes": "component-classes",
-    "query": "query-component"
+    "query": "component-query"
   },
   "browserify": {
     "transform": [
@@ -24,9 +24,9 @@
     ]
   },
   "dependencies": {
-    "query-component": "^0.0.1",
-    "event-component": "^0.1.0",
-    "emitter-component": "^1.1.1",
+    "component-query": "^0.0.3",
+    "component-event": "^0.1.0",
+    "component-emitter": "^1.1.1",
     "domify": "^1.1.1",
     "overlay-component": "^0.3.1",
     "component-classes": "^1.2.6"
